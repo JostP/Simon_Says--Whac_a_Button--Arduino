@@ -1,2 +1,2 @@
-# Simon_Says--Whac_a_Button--Arduino
-Whac a mole like game using Arduino nano and LED arcade buttons
+# `Simon Says` and `Whac a Button` Arduino games
+Work in process. Coming soon!
